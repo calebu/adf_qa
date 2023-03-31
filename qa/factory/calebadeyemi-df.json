@@ -1,0 +1,9 @@
+{
+	"name": "calebadeyemi-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "95be4b19-78d6-4ee7-9ebd-f60404b615f8",
+		"tenantId": "75a0a6bd-dc8d-483d-acd7-22eb877e8342"
+	}
+}
