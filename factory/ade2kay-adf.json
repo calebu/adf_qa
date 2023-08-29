@@ -1,0 +1,9 @@
+{
+	"name": "ade2kay-adf",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63a1da7c-ec6e-48ae-97e5-cff5262bee6b",
+		"tenantId": "75a0a6bd-dc8d-483d-acd7-22eb877e8342"
+	}
+}
